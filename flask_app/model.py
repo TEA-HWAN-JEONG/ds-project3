@@ -1,7 +1,6 @@
 import pickle
 import pandas as pd
 import shap
-import streamlit as st
 import matplotlib.pyplot as plt
 
 def get_model():
